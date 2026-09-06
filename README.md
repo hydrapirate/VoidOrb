@@ -215,6 +215,6 @@ https://ptb.discord.com/ • https://canary.discord.com/
 
 ## 📜 License
 
-This project is licensed under the **GNU GPL v3.0**.
+This project is licensed under the **GNU General Public License v3.0**.
 
-➡️ **[Abrir License](https://github.com/hydrapirate/VoidOrb/blob/main/LICENSE)**
+➡️ [GNU GENERAL PUBLIC LICENSE](https://github.com/hydrapirate/VoidOrb/blob/main/LICENSE)
