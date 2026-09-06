@@ -202,10 +202,13 @@ https://ptb.discord.com/ • https://canary.discord.com/
 5. Permitir colagem: allow pasting ou permitir colagem
 6. Cole o código.
 
-E pronto :)
+## 🎥 Vídeo Tutorial
+
+• https://www.youtube.com/watch?v=Oa3whr8_SjM
 
 ---
 
 ## 🐉 Autor
 
 **Hydra**
+• https://guns.lol/rivotryl
