@@ -194,10 +194,11 @@ if(quests.length === 0) {
 
 ## ▶️ Como usar
 
-1. Baixar Discord PTB ou Discord Canary
+1. Baixar Discord PTB ou Discord Canary:
+https://ptb.discord.com/ • https://canary.discord.com/
 2. Aceite uma missão ou quantas preferir.
 3. CTRL + SHIFT + I
-4. Abra o Console
+4. Abra o Console.
 5. Permitir colagem: allow pasting ou permitir colagem
 6. Cole o código.
 
