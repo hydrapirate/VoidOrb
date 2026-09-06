@@ -1,4 +1,4 @@
-# 🌌 Orb Discord Quest Script
+# 🌌 Missões Orb Script
 
 # 🖥️ Script
 ```
