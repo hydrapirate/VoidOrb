@@ -212,6 +212,7 @@ https://ptb.discord.com/ • https://canary.discord.com/
 
 **Hydra**
 • https://guns.lol/rivotryl
+• [hydrapirate](https://github.com/hydrapirate)
 
 ## 📜 License
 
