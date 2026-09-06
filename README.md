@@ -183,7 +183,7 @@ if(quests.length === 0) {
 
 ## ✨ Sobre
 
-**VoidOrb** é um script desenvolvido para automatizar as execuções de missões da plataforma Discord, oferecendo uma execução rápida, prática.
+**VoidOrb** é um script desenvolvido para automatizar as execuções de missões da plataforma Discord, oferecendo uma execução rápida e prática.
 
 ## 🚀 Recursos
 
