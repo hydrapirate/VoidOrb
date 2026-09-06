@@ -212,3 +212,9 @@ https://ptb.discord.com/ • https://canary.discord.com/
 
 **Hydra**
 • https://guns.lol/rivotryl
+
+## 📜 License
+
+This project is licensed under the **GNU GPL v3.0**.
+
+➡️ **[Abrir License](https://github.com/hydrapirate/VoidOrb/blob/main/LICENSE)**
