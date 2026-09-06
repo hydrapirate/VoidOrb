@@ -1,4 +1,4 @@
-# 🌌 Missões Orb Script
+# 🌌 Missões Orbs Script
 
 # 🖥️ Script (Última Atualização: 05/09/2026)
 ```javascript
