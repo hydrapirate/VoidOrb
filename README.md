@@ -1,7 +1,7 @@
 # 🌌 Missões Orb Script
 
 # 🖥️ Script (Última Atualização: 05/09/2026)
-```
+````javascript
 console.log(`
  __     __    _     _  ___       _
  \\ \\   / /__ (_) __| |/ _ \\ _ __| |__
@@ -189,6 +189,7 @@ if(quests.length === 0) {
 
 - ⚡ Inicialização rápida
 - 🎯 Suporte a Missões Orb
+- 🔄 Sempre em constante atualização.
 
 ---
 
