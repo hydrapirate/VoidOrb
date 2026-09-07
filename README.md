@@ -217,7 +217,7 @@ https://ptb.discord.com/ • https://canary.discord.com/
 
 ---
 
-## 📼 VoidByte Oficial Discord Server
+## 📼 VoidByte Servidor Discord Oficial
 Qualquer bug, sugestão ou dúvida, acesse:
 
 • https://discord.gg/gxCTuw5kb4
