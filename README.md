@@ -215,6 +215,12 @@ https://ptb.discord.com/ • https://canary.discord.com/
 • https://guns.lol/rivotryl
 • [hydrapirate](https://github.com/hydrapirate)
 
+---
+
+## 📼 Oficial Discord Server
+
+• https://discord.gg/gxCTuw5kb4
+
 ## 📜 License
 
 This project is licensed under the **GNU General Public License v3.0**.
