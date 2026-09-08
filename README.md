@@ -183,7 +183,7 @@ if(quests.length === 0) {
 
 ## ✨ Sobre
 
-**VoidOrb** É um script de código aberto. Você pode modificar e distribuir livremente, desde que mantenha os créditos do autor em qualquer versão modificada.
+**VoidOrb** É um script de código aberto. Você pode modificar e distribuir livremente.
 
 ## 🚀 Recursos
 
